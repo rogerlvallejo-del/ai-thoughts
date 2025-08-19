@@ -7,3 +7,6 @@ A repo for my ideas in AI
 3. bleble
 4. done
 5. 
+## Adding more stuff
+This is test only a test
+This chnage made on GitHub
